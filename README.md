@@ -57,6 +57,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 
 # Climate Protection Projects
 * [Trump Forest](https://trumpforest.com/) - Where ignorance grows trees.
+* [Click A Tree](https://clickatree.com/) - Top-rated B Corp growing forests, collecting ocean trash, building schools and financing gender equality. 
 * [OneTreePlanted](https://onetreeplanted.org/) - Non profit focused on global reforestation.
 * [Rainforest Alliance](https://www.rainforest-alliance.org/) - Working with you to rebalance the planet.
 * [myclimate.org](http://www.myclimate.org/) - Calculate and compensate for your CO2 footprint.
